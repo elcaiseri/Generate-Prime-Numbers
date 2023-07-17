@@ -15,4 +15,4 @@ def prime():
     return string[: -1]
 
 print(prime() == expected_output)
-
+# True
